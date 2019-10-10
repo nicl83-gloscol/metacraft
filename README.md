@@ -1,4 +1,4 @@
-##MetaCraft
+# MetaCraft
 
 A website designed for class at Gloscol.
 
